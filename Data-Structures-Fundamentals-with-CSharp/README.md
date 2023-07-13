@@ -1,4 +1,4 @@
-## :white_check_mark: Data-Structures-Fundamentals-with-CSharp-September-2020 - [Certificated](https://softuni.bg/certificates/details/150350/958ae9e1) :heavy_check_mark:
+## :white_check_mark: Data-Structures-Fundamentals-with-CSharp-November-2020 - [Certificated](https://softuni.bg/certificates/details/150350/958ae9e1) :heavy_check_mark:
 01. Linear Data Structures - Lab
 02. Linear Data Structures - Exercise
 03. Trees Representation and Traversal (BFS and DFS) - Lab
